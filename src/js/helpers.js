@@ -65,7 +65,7 @@ export const sendJSON = async function (url, uploadData) {
   }
 };
 */
-
+/*
 export const numberToFraction = function (amount) {
   // This is a whole number and doesn't need modification.
   if (parseFloat(amount) === parseInt(amount)) {
@@ -97,3 +97,4 @@ export const numberToFraction = function (amount) {
   }
   return amount;
 };
+*/

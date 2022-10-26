@@ -10,7 +10,7 @@ import addRecipeView from './views/addRecipeView.js';
 import 'core-js/stable';
 import 'regenerator-runtime/runtime';
 import { async } from 'regenerator-runtime';
-import { __esModule } from '-';
+// import { __esModule } from '-';
 // import { search } from './views/searchView';
 
 if (module.hot) {
