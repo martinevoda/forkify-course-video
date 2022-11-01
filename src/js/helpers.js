@@ -31,7 +31,7 @@ export const AJAX = async function (url, uploadData = undefined) {
   }
 };
 
-/*
+
 export const getJSON = async function (url) {
   try {
     const fetchPro = fetch(url);
@@ -64,8 +64,7 @@ export const sendJSON = async function (url, uploadData) {
     throw err;
   }
 };
-*/
-/*
+
 export const numberToFraction = function (amount) {
   // This is a whole number and doesn't need modification.
   if (parseFloat(amount) === parseInt(amount)) {
@@ -97,4 +96,4 @@ export const numberToFraction = function (amount) {
   }
   return amount;
 };
-*/
+
